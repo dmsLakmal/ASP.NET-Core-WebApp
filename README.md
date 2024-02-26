@@ -1,0 +1,7 @@
+- Implement the MVC (Model View Controller) architectural pattern.
+- Define database tables using the Entity Framework.
+- Define classes as models and customize Razor forms accordingly.
+- Implement controller methods.
+- Apply CSS to style ASP.NET pages.
+- Utilize Bootstrap classes for enhanced styling.
+- Implement a search functionality to filter database results.
